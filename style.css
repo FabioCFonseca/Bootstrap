@@ -1,0 +1,48 @@
+
+
+:root {
+    --primary-color: #8B8DB9;
+}
+
+body {
+    font-family: 'Quicksand', sans-serif;
+
+}
+
+.navbar {
+    background-color: var(--primary-color);
+}
+
+#home {
+    background-color: var(--primary-color);
+}
+
+a {
+    text-decoration: none;
+}
+
+#escola {
+    font-family: 'Dancing Script', cursive;
+    color: #F9F871;
+    font-size: 65px;
+}
+
+#card-1 {
+    background-color: #C593C5;
+}
+
+#card-2 {
+    background-color: #FD98B7;
+}
+
+#card-3 {
+    background-color: #FFAA96;
+}
+
+#inclusividade {
+    background-color: var(--primary-color);
+}
+
+#footer {
+    background-color: var(--primary-color);
+}
